@@ -19,7 +19,7 @@ A minimalist ToDo web application implemented with HTML, CSS, and JavaScript. Th
 <h2>How To Use?</h2>
 <ol>
   <li>Clone the repository:</li>
-  <li>git clone https://github.com/Bishal-5/todo-web-app.git</li>
+  <li>git clone https://github.com/Bishal-5/To-Do-Web-Application.git</li>
   <li>Open <i>index.html</i> in a web browser.</li>  
   <li>Create Tasks</li>
 </ol>
